@@ -2,8 +2,8 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
-
+- [Liz2222] (https://github.com/Liz2222)
+did this work.....lets see
 ## Project setup instructions
 To start using this project use the following commands:
 
