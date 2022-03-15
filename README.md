@@ -2,8 +2,8 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- [Liz2222] (https://github.com/Liz2222)
-did this work.....lets see
+- [Liz2222](https://github.com/Liz2222)
+
 ## Project setup instructions
 To start using this project use the following commands:
 
